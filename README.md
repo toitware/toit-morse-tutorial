@@ -1,5 +1,5 @@
 # Morse
-Tutorial version of the Morse package. Not intended for use as package.
+A tutorial version of the Morse package. Not intended for use as package.
 
 Encodes strings to Morse code. Also provides convenience methods
 that call given blocks `on` and `off` with the correct timing.
