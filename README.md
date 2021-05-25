@@ -1,5 +1,8 @@
-# Morse
-A tutorial version of the Morse package. Not intended for use as package.
+# Morse Tutorial
+A tutorial version of the Morse package.
+
+Prefer the `morse` package (github.com/toitware/toit-morse) for real
+applications.
 
 Encodes strings to Morse code. Also provides convenience methods
 that call given blocks `on` and `off` with the correct timing.
@@ -8,7 +11,7 @@ that call given blocks `on` and `off` with the correct timing.
 A simple usage example.
 
 ``` toit
-import morse_package_tutorial
+import morse_tutorial
 
 main:
   ...
