@@ -1,5 +1,5 @@
 prefixes:
-  morse: ..
+  morse_tutorial: ..
 packages:
   ..:
     path: ..
