@@ -1,1 +1,2 @@
-# Empty, since all information is inferred from README.md, and LICENSE files.
+name: morse_tutorial
+description: A tutorial version of the Morse package.
