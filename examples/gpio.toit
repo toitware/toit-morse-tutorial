@@ -17,7 +17,7 @@ main:
   10.repeat:
     morse-tutorial.emit
         morse-tutorial.encode-string "ababc"
-        --dot-duration= Duration --ms=250
-        --on=:  pin.set 1
+        --dot-duration=(Duration --ms=250)
+        --on=: pin.set 1
         --off=: pin.set 0
     sleep (Duration --ms=3000)
